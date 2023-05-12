@@ -13,8 +13,8 @@ Luckily born in Azores, passionate about data, passionate about measuring what m
 - Deep Learning
 
 ## Let's Connect
-- LinkedIn: (https://www.linkedin.com/in/filipafontes?)
-- Tableau: [https://public.tableau.com/app/profile/filipa.fontes)
+- LinkedIn: (https://www.linkedin.com/in/filipafontes)
+- Tableau: (https://public.tableau.com/app/profile/filipa.fontes)
 
 
 
