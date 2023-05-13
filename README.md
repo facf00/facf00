@@ -18,4 +18,3 @@ Luckily born in Azores, passionate about data, passionate about measuring what m
 
 
 
-[![Animated Text](https://img.shields.io/badge/Animated-Text-red?style=for-the-badge&logo=CSS3)](https://github.com/facf00)
